@@ -1,0 +1,26 @@
+Router1# show lldp neighbors
+
+ Capability codes:
+     (R) Router, (B) Bridge, (T) Telephone, (C) DOCSIS Cable Device
+     (W) WLAN Access Point, (P) Repeater, (S) Station, (O) Other
+
+ Device ID           Local Intf     Hold-time  Capability      Port ID
+ Router2             Et0/0          150        R               Et0/8
+ Router3             Et0/1          150        R               Et0/7
+ Router4             Et0/2          150        R               Et0/6
+ Router5             Et0/3          150        R               Et0/5
+ Router6             Et0/3          150        R               Et0/5
+ Router7             Et0/3          150        R               Et0/5
+ Router8             Et0/3          150        R               Et0/5
+ Router9             Et0/3          150        R               Et0/5
+Router10             Et0/3          150        R               Et0/5
+Router11             Et0/3          150        R               Et0/5
+Router12             Et0/3          150        R               Et0/5
+Router13             Et0/3          150        R               Et0/5
+Router14             Et0/3          150        R               Et0/5
+Router15             Et0/3          150        R               Et0/5
+Router16             Et0/3          150        R               Et0/5
+Router17             Et0/3          150        R               Et0/5
+Router18             Et0/3          150        R               Et0/5
+
+ Total entries displayed: 1
